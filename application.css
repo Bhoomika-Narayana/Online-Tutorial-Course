@@ -1,0 +1,39 @@
+div.form{
+    background: linear-gradient(50deg,green,#ffffff,green);
+    width: 12cm;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+label{
+    width:140px;
+    display:inline-block;
+    margin:0.2cm;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input{
+    padding: 8px;
+    margin: 19px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #f9f9f9;
+}
+input#submit{
+   margin-top: 7px;
+   color:white;
+   font-weight: bold;
+   padding: 4px;
+   background-color: green;
+   width: 7cm;
+}
+input#submit:hover{
+    background-color: dodgerblue;
+    color:#f9f9f9;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+    font-size: 24px;
+}
